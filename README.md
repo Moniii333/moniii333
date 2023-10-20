@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Monique or Moniii (Mo-nee)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniii333&layout=compact)
 
 - 🔭 I’m currently working on ...Finishing FullStack Academy Software Development bootcamp! And achieving my dream of becoming a fullstack software developer!
 
