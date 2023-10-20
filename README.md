@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Monique or Moniii (Mo-nee)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?moniii333=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
 
 - 🔭 I’m currently working on ...Finishing FullStack Academy Software Development bootcamp! And achieving my dream of becoming a fullstack software developer!
 
@@ -11,5 +11,8 @@
 - 😄 Pronouns: ...She/Her
 
 - ⚡ Fun fact: ...I have a toy yorkie his name is Kash and he's the cuttest little 3 lb guy with a heavyweight personality!
+
+
+[![Moniii's GitHub stats](https://github-readme-stats.vercel.app/api?username=moniii333&show_icons=true&theme=tokyonight)](https://github.com/moniii333/github-readme-stats)
 
 <a href="https://app.daily.dev/hazedcoder333"><img src="https://api.daily.dev/devcards/c70d4bb239e34d1d8ffa7b78d3eddf1c.png?r=ylq" width="400" alt="Monique A's Dev Card"/></a>
