@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniii333&layout=compact)
 
-<a href="https://www.hacksquad.dev/ticket/Moniii333"><img src="img/hackersquadCard.png" max-width="300px" /></a>
+<a href="https://www.hacksquad.dev/ticket/Moniii333"><img src="img/hackersquadCard.png" width="300px" /></a>
 
 - 🔭 I’m currently working on ...Finishing FullStack Academy Software Development bootcamp! And achieving my dream of becoming a fullstack software developer!
 
