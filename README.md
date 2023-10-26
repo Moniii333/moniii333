@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moniii333&layout=compact)
 
+<a href="https://www.hacksquad.dev/ticket/Moniii333"><img src="img/hackersquadCard.png" /></a>
+
 - 🔭 I’m currently working on ...Finishing FullStack Academy Software Development bootcamp! And achieving my dream of becoming a fullstack software developer!
 
 - 🌱 I’m currently learning ...As much as I can about React and PostgreSQL! I also have been learning about express js and creating servers and routes!
